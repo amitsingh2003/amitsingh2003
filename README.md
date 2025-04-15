@@ -5,7 +5,7 @@
 </p>
 
 ## 🚀 About Me
-I'm a 3rd-year Computer Science student at **IIIT Vadodara** with a passion for frontend development and problem-solving. I enjoy building web applications and solving algorithmic challenges. Currently enhancing my skills in modern web technologies and exploring open-source contributions.
+I'm a 3rd-year Information Technology student at IIIT Vadodara with a deep passion for frontend development and crafting elegant user experiences. I specialize in building responsive, scalable web applications using modern libraries and frameworks like React, Tailwind CSS, Framer Motion, AOS etc. My focus lies in translating real-world problems into intuitive digital interfaces that are both functional and visually compelling. With a keen eye for design and performance, I strive to create seamless interactions that elevate the user journey.
 
 ## 💻 Tech Stack
 
