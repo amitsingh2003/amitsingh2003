@@ -1,50 +1,101 @@
 # 👋 Hello, I'm Amit Singh
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=435&lines=Frontend+Developer;Problem+Solver;IT+Student+@+IIIT+Vadodara" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Competitive+Programmer;Knight+%40+LeetCode" alt="Typing SVG" />
 </p>
+
 
 ## 🚀 About Me
-I'm a 3rd-year Information Technology student at IIIT Vadodara with a deep passion for frontend development and crafting elegant user experiences. I specialize in building responsive, scalable web applications using modern libraries and frameworks like React, Tailwind CSS, Framer Motion, AOS etc. My focus lies in translating real-world problems into intuitive digital interfaces that are both functional and visually compelling. With a keen eye for design and performance, I strive to create seamless interactions that elevate the user journey.
 
-## 💻 Tech Stack
+I’m a passionate 4th-year IT student at IIIT Vadodara and a competitive programmer who transforms complex challenges into scalable, AI-powered web solutions.
+With a knack for crafting beautiful, responsive UIs and engineering secure, optimized backends—from rate-limited APIs to efficient database queries—I blend aesthetic design with algorithmic precision.
+Specialized in the MERN stack, I build systems that are fast, intuitive, and impact-driven.
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 👨‍💻 Coding profiles
+## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://leetcode.com/u/amitsinghHR30/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/amitsingh2003p" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/mithudonbadmosh" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=cpp,js,c,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,figma,tailwind,bootstrap" />
 </p>
 
-## 📫 How to Reach Me
+### 💾 Languages & Frameworks
+```javascript
+const techStack = {
+    languages: ["C++", "JavaScript (ES6+)", "C", "SQL"],
+    frontend: ["React.js", "HTML5", "CSS3", "Tailwind CSS", "Bootstrap"],
+    backend: ["Node.js", "Express.js", "RESTful APIs"],
+    databases: ["MongoDB", "MySQL"],
+    tools: ["Git", "GitHub", "VS Code", "Postman", "Chrome DevTools"],
+    cloud: ["Render", "Vercel"],
+    design: ["Figma", "Canva"],
+    libraries: ["Redux", "Context API", "Framer Motion", "Tesseract.js"]
+};
+```
+
+## 📊 Competitive Programming Stats
+
+<div align="center">
+
+### 🏅 Coding Profiles
+
+<table>
+<tr>
+<td align="center">
+<strong>LeetCode</strong><br/>
+<img src="https://img.shields.io/badge/Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/><br/>
+<strong>Max Rating:</strong> 1870<br/>
+<strong>Problems Solved:</strong> 750+
+</td>
+<td align="center">
+<strong>CodeChef</strong><br/>
+<img src="https://img.shields.io/badge/3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/><br/>
+<strong>Max Rating:</strong> 1689<br/>
+<strong>Problems Solved:</strong> 200+
+</td>
+<td align="center">
+<strong>Codeforces</strong><br/>
+<img src="https://img.shields.io/badge/Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/><br/>
+<strong>Rating:</strong> 1316<br/>
+<strong>Problems Solved:</strong> 300+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amitsingh2003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitsingh2003&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitsingh2003&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitsingh2003&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amitsingh2003&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+## 🎓 Education & Coursework
+
+**🏛️ Bachelor of Technology in Information Technology**  
+*Indian Institute of Information Technology Vadodara* | **CGPA: 7.52/10** | *Dec 2022 - May 2026*
+
+**📚 Core Coursework:** Data Structures, DBMS, Computer Networks, Operating Systems, Object-Oriented Programming
+
+## 📫 Let's Connect!
 
 <p align="center">
   <a href="mailto:amitsingh2003plwl@gmail.com">
@@ -53,14 +104,34 @@ I'm a 3rd-year Information Technology student at IIIT Vadodara with a deep passi
   <a href="https://www.linkedin.com/in/amit-singh-17a99324b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://leetcode.com/u/amitsinghHR30/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/amitsingh2003p" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://codeforces.com/profile/mithudonbadmosh" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+</p>
+
+## 💡 Fun Fact
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </p>
+
+---
+
+<div align="center">
+  <sub>⭐ From <a href="https://github.com/amitsingh2003">Amit Singh</a> with ❤️</sub>
+</div>
