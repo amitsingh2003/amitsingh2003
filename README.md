@@ -132,6 +132,4 @@ const techStack = {
 
 ---
 
-<div align="center">
-  <sub>⭐ From <a href="https://github.com/amitsingh2003">Amit Singh</a> with ❤️</sub>
-</div>
+
